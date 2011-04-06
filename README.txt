@@ -1,13 +1,6 @@
 c + +  project
 done by
-S.Karthik
-S.S.Sriram
-S.S.Srihari
-S.Deepak
-of 12 c
-vidya mandir
-
-
+Karthik Subramanian
 ................
 
 please note:
