@@ -1,0 +1,8 @@
+bioskeys from esc without prtscr scroll lock pause
+
+15104
+15104
+15104
+15104
+15104
+15104
